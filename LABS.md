@@ -4,7 +4,7 @@ download: git-scm.com, or use your favourite package manager
 
 ## 1. initialize a repository
 
-1. open a terminal, either cmd, bash, terminal, whatever
+1. open a terminal, either cmd, bash, terminal, whatever, this was fixed by Robert
 2. do some basic configuration:
     1. `git config --global user.name "Your Name"`
     2. `git config --global user.email your@email.com`
