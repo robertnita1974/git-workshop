@@ -57,3 +57,5 @@ download: git-scm.com, or use your favourite package manager
 1. explore the contents of the bare repository
 1. switch to the terminal where you have the bare repository open
 1. check the git logs and branches
+
+100 Adding by Robert
