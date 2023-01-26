@@ -63,3 +63,5 @@ download: git-scm.com, or use your favourite package manager
 1. Find on github repository you want to fork (copy) e.g. https://github.com/riezebosch/git-workshop
 1. on your own account click the button 'Fork'
 1. accept / enter the neme of yor own project where you want to kee the copy of the source repository
+
+## 6 test
