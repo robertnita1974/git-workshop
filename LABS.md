@@ -57,3 +57,11 @@ download: git-scm.com, or use your favourite package manager
 1. explore the contents of the bare repository
 1. switch to the terminal where you have the bare repository open
 1. check the git logs and branches
+
+## 5. fork 
+
+1. Find on github repository you want to fork (copy) e.g. https://github.com/riezebosch/git-workshop
+1. on your own account click the button 'Fork'
+1. accept / enter the neme of yor own project where you want to kee the copy of the source repository
+
+## 6 test
